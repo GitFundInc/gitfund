@@ -1,2 +1,4 @@
-# gitfund
-GitFund project
+# GitFund
+GitFund donation service
+
+
